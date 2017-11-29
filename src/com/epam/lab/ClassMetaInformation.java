@@ -1,5 +1,9 @@
 package com.epam.lab;
 
+/**
+* Simple class that would be used for 
+* getting metainformation via reflection.
+*/
 public class ClassMetaInformation<T> {
     private String secretCode;
     private T metaField;
